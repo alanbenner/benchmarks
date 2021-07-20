@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T12:03:11.191Z" agent="5.0 (Macintosh)" etag="IaQerz1RBGONw_4lNvGV" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T12:06:46.534Z" agent="5.0 (Macintosh)" etag="O-vLJrcOOLNYwAXV1s-I" version="14.9.0" type="github">
   <diagram id="B1YT_2KbgSHhYa7NV8CN" name="Page-1">
-    <mxGraphModel dx="1033" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="365" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,12 @@
         </mxCell>
         <mxCell id="jOQJGu_451UqzSDvAJVw-2" value="TOR1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jOQJGu_451UqzSDvAJVw-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jOQJGu_451UqzSDvAJVw-4" value="&lt;h1&gt;Notes&lt;/h1&gt;&lt;p&gt;All switches have suffix .sr07.wdc07&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="670" width="290" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
